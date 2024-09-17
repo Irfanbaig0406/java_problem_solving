@@ -1,4 +1,6 @@
-public class Group_anagram {
+
+import java.util.Arrays;
+public class LongestCommonString {
     static String longestCommonPrefix(String[] strs)
     {
         if(strs==null || strs.length==0)

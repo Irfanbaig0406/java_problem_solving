@@ -1,3 +1,5 @@
+//package problem_solving;
+import java.util.*;
 public class String_Compression {
     static String StringCompression(String str) {
         if(str.length()<2)
